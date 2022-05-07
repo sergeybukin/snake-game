@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    background: rgb(53, 54, 58);
+    margin-top: 10px;
+}
+#snake {
+    border: 1px #fff solid;
+    display: block;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: #ebebeb;
+    text-transform: uppercase;
+}
+.manage {
+    width: fit-content;
+    margin: 20px auto;
+}
+.manage button {
+    font-size: 20px;
+    background: green;
+    color: white;
+}
+.hidden {
+    display: none;
+}
